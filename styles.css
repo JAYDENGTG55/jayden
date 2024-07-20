@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   }
+   body { 
+    font-family: "Montserrat", sans-serif;
+}
+
+   div{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin : 0px auto;
+    margin-bottom: 20px;
+   }
+  
+
+div.red {background-color: rgb(255, 1, 1);
+    
+}
+div.green {background-color: green;
+   
+    
+}
+div.yellow {background-color: yellow;}
+
+h1 {
+    font-family: arial, helvetica, sans-serif;
+    text-align: center;/*horizontal*/
+    line-height: 100px;/*vertical*/
+    color: white;
+}
+
+
+.circle{border-radius: 50%;
+}
